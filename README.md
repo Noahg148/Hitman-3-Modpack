@@ -73,7 +73,7 @@
 69. [Reusable Key Hackers](https://www.nexusmods.com/hitman3/mods/884)
 70. [Peacock Strings](https://github.com/thepeacockproject/peacock-strings)
 
-## The Peacock Project
+## Peacock
 
 1. [Website](https://thepeacockproject.org/)
 2. [Hidden Items plugin](https://discord.com/channels/826809653181808651/1042830461342339072/threads/1275085600273465405)
