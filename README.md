@@ -5,7 +5,7 @@
 1. [Freelancer Variations](https://www.nexusmods.com/hitman3/mods/437)
 2. [Blossom Fest](https://www.nexusmods.com/hitman3/mods/1021)
 3. [Briefcase Carousel](https://www.nexusmods.com/hitman3/mods/1032)
-4. [Black Market Suppliers](https://www.nexusmods.com/hitman3/mods/883)
+4. [Black Market Suppliers V3](https://www.nexusmods.com/hitman3/mods/883)
 5. [Advanced Glass Panel](https://www.nexusmods.com/hitman3/mods/831)
 6. [Halloween at Whittleton Creek](https://www.nexusmods.com/hitman3/mods/1089)
 7. [Peacock Plus](https://www.nexusmods.com/hitman3/mods/805)
@@ -71,7 +71,14 @@
 67. [Starting Suits ULTIMATE](https://www.nexusmods.com/hitman3/mods/401)
 68. [Project MRTNIFiquation](https://www.nexusmods.com/hitman3/mods/1081)
 69. [Reusable Key Hackers](https://www.nexusmods.com/hitman3/mods/884)
-70. [Peacock Strings](https://github.com/thepeacockproject/peacock-strings)
+70. [Sandbox Hantu Port](https://www.nexusmods.com/hitman3/mods/588)
+71. [Peacock Strings](https://github.com/thepeacockproject/peacock-strings)
+
+## SDK Mod
+
+1. [Website](https://github.com/OrfeasZ/ZHMModSDK)
+2. [Mission Companion](https://www.nexusmods.com/hitman3/mods/878)
+3. Freecam
 
 ## Peacock
 
