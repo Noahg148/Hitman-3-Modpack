@@ -72,7 +72,8 @@
 68. [Starting Suits ULTIMATE](https://www.nexusmods.com/hitman3/mods/401)
 69. [Project MRTNIFiquation](https://www.nexusmods.com/hitman3/mods/1081)
 70. [Reusable Key Hackers](https://www.nexusmods.com/hitman3/mods/884)
-71. [Peacock Strings](https://github.com/thepeacockproject/peacock-strings)
+71. [More Blood COMPLETE](https://www.nexusmods.com/hitman3/mods/1237)
+72. [Peacock Strings](https://github.com/thepeacockproject/peacock-strings)
 
 ## SDK Mod
 
